@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Jeffery Zeep
+
+- Ranked in the top 1% on Stack Overflow
+- Passionate about hacking stuff, networks, and collecting old computers
+- Adrenalyn junkie 
+
+Feel free to contact me at jzeep@gmail.com
 
 <!--
 **JeffZeep/JeffZeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
