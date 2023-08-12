@@ -6,6 +6,9 @@
 
 Feel free to contact me at jzeep@gmail.com
 
+![image](https://github.com/JeffZeep/JeffZeep/assets/142123154/d06aebcb-d129-4062-b996-2dc29b0bde1e)
+
+
 <!--
 **JeffZeep/JeffZeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
